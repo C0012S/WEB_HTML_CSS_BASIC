@@ -2,12 +2,26 @@ h1 {
     background-color: pink;
     text-align: center;
     font-size: 36pt;
+    font-family: 'Black Han Sans', sans-serif;
+}
+
+h1 span:nth-child(1) {
+    color: lightblue
+}
+
+h1 span:nth-child(2) {
+    color: purple
 }
 
 div {
     text-align: center;
 }
 
-span {
+div > p {
+    font-family: 'Do Hyeon', sans-serif;
+}
+
+div > span {
     background-color: lightpink;
+    font-family: 'Dongle', sans-serif;
 }
