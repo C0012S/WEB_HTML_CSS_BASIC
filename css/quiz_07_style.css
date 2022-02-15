@@ -1,0 +1,19 @@
+h1 {
+    background-color: pink;
+    position: fixed;
+    top: 10px;
+}
+
+.diary1 {
+    background-color: gray;
+    position:relative;
+    top: 5em;
+    left: 2ex;
+}
+
+.diary2 {
+    background-color: lightgray;
+    position: absolute;
+    top: 8em;
+    left: 3ex;
+}
