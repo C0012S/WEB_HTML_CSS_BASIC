@@ -1,0 +1,36 @@
+.box1 {
+    width: 100px;
+    height: 100px;
+    background: pink;
+    border-radius: 50%;
+}
+
+.box2 {
+    width: 100px;
+    height: 100px;
+    background: pink;
+    border-radius: 100px 100px 0 0;
+}
+
+.box3 {
+    border-width: 10px;
+    border-style: solid;
+    border-color: pink;
+    width: 100px;
+    height: 100px;
+}
+
+.box4 {
+    border: 10px double deepskyblue;
+    width: 100px;
+    height: 100px;
+}
+
+.box5 {
+    border-top: 10px solid deepskyblue;
+    border-right: 10px double deeppink;
+    border-bottom: 10px dotted greenyellow;
+    border-left: 10px dashed plum;
+    width: 100px;
+    height: 100px;
+}
