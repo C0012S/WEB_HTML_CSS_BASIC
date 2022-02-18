@@ -1,0 +1,25 @@
+body {
+    background-color: pink;
+}
+
+h3 {
+    color: purple;
+}
+
+.profile {
+    position: relative;
+    top: 10px;
+    left: 15px;
+    width: 400px;
+    height: 400px;
+    background-color: lightgrey;
+    text-align: center;
+}
+
+.introduce {
+    padding: 20px;
+}
+
+span {
+    font-weight: bolder;
+}
