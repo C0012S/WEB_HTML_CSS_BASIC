@@ -1,0 +1,12 @@
+body {
+    text-align: center;
+    font-weight: bolder;
+}
+
+.btn-group {
+    margin: 20px;
+}
+
+.card {
+    margin: auto;
+}
