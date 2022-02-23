@@ -1,0 +1,38 @@
+.container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.item {
+    width: 100px;
+    height: 100px;
+    margin: 20px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.item:nth-child(1) {
+    background-color: aquamarine;
+}
+
+.item:nth-child(2) {
+    background-color: cadetblue;
+}
+
+.item:nth-child(3) {
+    background-color: blueviolet;
+}
+
+.item:nth-child(4) {
+    background-color: crimson;
+}
+
+.item:nth-child(5) {
+    background-color: salmon;
+}
