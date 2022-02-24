@@ -1,0 +1,48 @@
+.name span:nth-child(1) {
+    color: blue;
+}
+
+.name span:nth-child(2) {
+    color: red;
+}
+
+.name span:nth-child(3) {
+    color: orange;
+}
+
+.name span:nth-child(4) {
+    color: blue;
+}
+
+.name span:nth-child(5) {
+    color: green;
+}
+
+.name span:nth-child(6) {
+    color: red;
+}
+
+input {
+    width: 240px;
+    border-radius: 15px;
+    border: 1px solid gray;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.item {
+    width: 30px;
+    height: 30px;
+    margin: 10px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    background-color: gray;
+}
